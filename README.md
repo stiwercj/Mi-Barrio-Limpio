@@ -45,7 +45,3 @@ La lógica del sistema se implementa mediante modelos de datos relacionales, exp
 
 ---
 
-## Evidencias y Enlaces del Proyecto
-* **Prototipo funcional en Google AppSheet:** `[Pega aquí el enlace de tu app en AppSheet]`
-* **Video demostrativo (máx. 10 min):** `[Pega aquí el enlace de YouTube o Drive]`
-* **Instrumentos y validación simulada:** Ver archivo `Encuestas_y_Entrevistas_Simuladas_Mi_Barrio_Limpio_TRL5.docx` adjunto en este repositorio.
